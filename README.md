@@ -2,7 +2,9 @@
 An Odin Project assignment to build a Rock Paper Scissors game
 
 Link to assignment page: https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
+
 ---
+
 Assignment Skills
 
 * Add scripts to HTML
